@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SBGVS - Siddharth Bhartiya Gramin Vikas Sansthan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 1rem 0;
+      text-align: center;
+    }
+    nav {
+      background: #388e3c;
+      text-align: center;
+    }
+    nav a {
+      display: inline-block;
+      padding: 1rem;
+      color: white;
+      text-decoration: none;
+    }
+    section {
+      padding: 2rem;
+      background-color: white;
+      margin: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Siddharth Bhartiya Gramin Vikas Sansthan (SBGVS)</h1>
+    <p>Empowering Communities, Promoting Health, Ensuring Sustainability</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Us</a>
+    <a href="#mission">Mission & Vision</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>SBGVS is a non-profit civil society organization based in Siddharth Nagar, Uttar Pradesh. We strive to ensure the right to live with dignity by removing inequality and empowering communities.</p>
+    <ul>
+      <li>Registered under Society Registration Act, 1860 (Valid till April 2027)</li>
+      <li>FCRA 2010 (Valid till January 31, 2024)</li>
+      <li>12A Registration (Renewed on September 24, 2021)</li>
+    </ul>
+  </section>
+
+  <section id="mission">
+    <h2>Mission & Vision</h2>
+    <p><strong>Mission:</strong> Ensure health and economic well-being in low-resource settings.</p>
+    <p><strong>Vision:</strong> A healthy and self-sustainable community contributing to national growth.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Key Projects</h2>
+    <ul>
+      <li><strong>Women Empowerment:</strong> Promoting female condom use and education</li>
+      <li><strong>Youth Empowerment:</strong> Focusing on adolescent girls' education and health</li>
+      <li><strong>Health Promotion:</strong> Sanitary pad awareness program</li>
+      <li><strong>Livelihood Creation:</strong> Supporting weaker sections through group formation</li>
+      <li><strong>Environment and Agriculture:</strong>
+        <ul>
+          <li>Nature Conservation</li>
+          <li>Sustainable Livelihood</li>
+          <li>Water Conservation</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p><strong>President:</strong> Mr. Krishna Kumar Lal</p>
+    <p><strong>Secretary:</strong> Mr. Umesh Chandra</p>
+    <p><strong>Treasurer:</strong> Mrs. Meena</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 SBGVS. All rights reserved.</p>
+  </footer>
+</body>
+</html>
